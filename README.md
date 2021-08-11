@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mduz1982
-- 👀 I’m interested in developping public finance and accounting applications
+- 👀 I’m interested in developing EU and public funds management finance and accounting applications
 - 🌱 I’m currently learning Excel VBA and Python Pyxl and Pandas
 - 💞️ I’m looking to collaborate on developping an application with which we can input data generate financial reports easier than Excel
 - 📫 How to reach me msd1982@gmail.com
